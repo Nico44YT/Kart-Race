@@ -3,3 +3,6 @@ https://www.dafont.com/de/vcr-osd-mono.font
 
 LibGDX:
 https://libgdx.com/
+
+Sounds:
+https://sfxr.me/
